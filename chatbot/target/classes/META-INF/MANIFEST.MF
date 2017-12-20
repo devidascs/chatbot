@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: websocket-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: devidascs
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/websocket-de
+ mo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
