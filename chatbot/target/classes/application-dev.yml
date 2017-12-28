@@ -1,0 +1,5 @@
+chatbotconfiguration: 
+  google:
+    name: SetoBot
+    projectid: setovoicebot-9f3df
+    languageCode: en-US
